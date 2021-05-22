@@ -1,0 +1,2 @@
+# Mobile-Apps-Hybrid-Native-for-Andriod
+You will find a collection of andriod apps within this package, these are fully clean apps, so if your smart phone, warn you about anonymous source, It's normal, cause I didn't publish them on the app stores, please let me know what do you think. some constructive critics and openions will be appreciated. please don't try to use these apps to earn money from ads on App stores, they have an ID and a tracking number. neither commercial activity GPL
